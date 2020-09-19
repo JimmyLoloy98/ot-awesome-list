@@ -329,4 +329,3 @@
 + [Compartir en Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/opentech-pe/ot-awesome-list&p[summary]=)
 + [Compartir en LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/opentech-pe/ot-awesome-list&summary=&source=)
 + [Compartir en Telegram](https://t.me/share/url?url=https://github.com/opentech-pe/ot-awesome-list)
-
